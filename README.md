@@ -6,12 +6,6 @@ Dead Stock Dost is one of the five projects built for the **Hacktoberfest Weeken
 
 It is designed for a small neighborhood garment shop with a simple inventory CSV and one practical question:
 
-> **Which products need attention, and what could I try?**
-
-**CSV → Identify Dead Stock → Explain → Suggest an Action**
-
-> **The code calculates the facts. The AI explains the facts. The shopkeeper decides.**
-
 ## 📸 Screenshots
 
 ### Homepage
@@ -157,11 +151,6 @@ Select a product
    ↓
 Get a local AI response
 ```
-
-## 📚 Documentation
-
-- [Architecture](docs/ARCHITECTURE.md) — how the application works
-- [Scope](docs/SCOPE.md) — what the MVP includes and intentionally leaves out
 
 ## 🤝 Built for Hacktoberfest
 
