@@ -4,4 +4,4 @@ out/
 *.tsbuildinfo
 .env.local
 npm-debug.log*
-docs/
+documentation/
